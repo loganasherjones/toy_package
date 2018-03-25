@@ -12,7 +12,7 @@ SPEC = yapconf.YapconfSpec({
 
 def average(attribute, people):
     """Average the given attribute of people passed in."""
-    result = 0
+    result = 0.0
     for person in people:
         data = SPEC.load_config(person, 'ENVIRONMENT')
         for k, v in data.items():
