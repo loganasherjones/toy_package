@@ -2,7 +2,7 @@
 
 Just an example project for setting up your python environment.
 
-This goes along with the blog post at https://loganasherjones.com/
+This goes along with the blog post at https://www.loganasherjones.com/2018/03/setting-up-your-python-environment/
 
 
 ## The Basics
